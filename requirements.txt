@@ -1,0 +1,10 @@
+# VSCODE IDE
+tensorflow>=2.10.0
+opencv-python
+numpy
+Pillow
+matplotlib
+
+#Jupyter notebook
+jupyter
+scikit-learn
